@@ -1,4 +1,4 @@
-</x-dynamic-component>
+<x-dynamic-component
     :id="$getId()"
     :label="$getLabel()"
     :label-sr-only="$isLabelHidden()"
